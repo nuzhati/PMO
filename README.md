@@ -1,2 +1,2 @@
 # PMO
-https://nuzhati.github.io/PMO/ tap here for pmo report
+https://nuzhati.github.io tap here for pmo report
